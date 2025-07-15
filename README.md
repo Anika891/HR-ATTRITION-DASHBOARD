@@ -23,5 +23,7 @@ The dataset used for this project is included in the Excel file titled "Anika Ma
 <a href=https://github.com/Anika891/HR-ATTRITION-DASHBOARD/blob/main/HR%20ATTRITION%20DASHBOARD.png>View Dashboard</a>
 ## Dashboard
 <img width="943" height="539" alt="HR ATTRITION DASHBOARD" src="https://github.com/user-attachments/assets/c9471834-fc70-488d-a540-32094083f3b9" />
+
 ## Conclusion
+
 The HR Attrition Dashboard effectively transforms raw employee data into actionable insights by highlighting key trends and patterns related to workforce attrition. Through interactive visualizations of demographic factors (such as age, gender, and education), departmental distribution, job roles, and attrition status, this dashboard enables HR professionals to pinpoint high-risk groups and areas with elevated turnover. By identifying these critical insights, organizations can take proactive steps to improve employee satisfaction, optimize talent management strategies, and reduce overall attrition rates. This project demonstrates the power of data visualization in driving strategic, evidence-based HR decisions.
