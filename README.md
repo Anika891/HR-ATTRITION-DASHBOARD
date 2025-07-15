@@ -20,3 +20,6 @@ The dataset used for this project is included in the Excel file titled "Anika Ma
 12. Filter/Slicer 1: Education Wise
 13. Filter/Slicer 2: Department Wise
 ## Dashboard Interaction
+<a href=https://github.com/Anika891/HR-ATTRITION-DASHBOARD/blob/main/HR%20ATTRITION%20DASHBOARD.png>View Dashboard</a>
+## Dashboard
+<img width="943" height="539" alt="HR ATTRITION DASHBOARD" src="https://github.com/user-attachments/assets/c9471834-fc70-488d-a540-32094083f3b9" />
